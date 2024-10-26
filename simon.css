@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+    
+
+.btn-1{
+    background-color: #f99b45;
+    height:200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+}
+.btn-container{
+    
+    display: flex;
+    justify-content: center;
+   
+}
+.btn-2{
+   background-color:  #d95980;
+   height:200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+}
+.btn-3{
+   background-color:#819ff9;
+   height:200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+}
+.btn-4{
+   background-color: #63aac0;
+   height:200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+}
+
+.lightUp{
+     background-color: black;    
+}
